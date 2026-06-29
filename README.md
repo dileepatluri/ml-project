@@ -205,11 +205,9 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 ## 📬 Contact
 
-- **Email:** [iconicemon01@gmail.com](mailto:iconicemon01@gmail.com)
-- **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)
-- **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)
-- **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan)
-- **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
+- **Email:** [iconicemon01@gmail.com](atluridileep@gmail.com)
+- **GitHub:** [Md-Emon-Hasan](https://github.com/dileepatluri)
+- **LinkedIn:** [Md Emon Hasan]https://www.linkedin.com/in/dileep-atluri-bab60932a/()
 
 ---
 
